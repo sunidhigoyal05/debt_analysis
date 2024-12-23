@@ -1,4 +1,4 @@
-# debt_analysis
+# DEBT ANALYSIS
 
 **Classifying Banking Crises**
 
